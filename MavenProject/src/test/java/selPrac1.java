@@ -17,7 +17,6 @@ public class selPrac1 {
 		driver.findElement(By.id("password")).sendKeys("!New@123");
 		driver.findElement(By.id("#login")).click();
 		
-		driver.getTitle();
 		
 		
 		//Assertion	
